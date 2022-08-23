@@ -1,4 +1,4 @@
-# Assignment 01 - Shell Scripting Exercises
+# Homework 01 - Shell Scripting Exercises (200 points)
 
 This assignment will allow you to use what you have learned from the PluralSight assignment.  Put all the assignment files in the `src/` folder.
 
